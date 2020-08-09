@@ -1,7 +1,7 @@
 # Checking Credit Cards #
   REST API in Node.js and Express.js to test AMEX, Discover, MasterCard and Visa cards. The API takes the card number and defines the card type and gets validated by the Luhn Algorithm.
 
-  Simple front-end in React providing a form that will pass the input through the API and return it's results back to you.
+  Simple front-end in React providing a form that will pass the input through the API and return its results back to you.
 
 ## How to run Project ##
 
