@@ -21,6 +21,5 @@
 
 **Todo List**
 
-  * Other things that can be done is limiting the field to 16 numbers only
-  * Check CVV with Luhn
+  * Limit the card number field to 16 numbers only
   * Check if Expiry date is in future
